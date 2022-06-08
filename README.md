@@ -24,3 +24,6 @@ We use the same definations of parameters for all those functions. Currently, yo
 `stride`: Stride when cutting slices, such as 144 or 288.
 
 `modelType`: Model architecture, such as "homegrown" and "DF".
+
+## Usage 
+After you modify the parameters, run `python model_training.py` to train and test your models.
