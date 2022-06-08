@@ -1,8 +1,17 @@
 # RadioNet
 
-`ADA` contains code for Adversary Domain Adptation
+`ADA` contains code for Adversary Domain Adptation.
 
-`triplet_network` contains code for Triplet Network
+ ``af_classifier.py`` is the main function for ADA.
+
+`triplet_network` contains code for Triplet Network.
+
+``triplet_training.py`` is the main function for triplet network.
+
+`model_training.py` for the same-day or cross-day scenario evaluation.
+
+`finetune.py` for fine-tuning pre-trained models. 
+
 ## Defination of parameters
 
 We use the same definations of parameters for all those functions. Currently, you can modify those parameters at the entrance of each function (such as "testOpts()" or "main()"):
@@ -26,4 +35,5 @@ We use the same definations of parameters for all those functions. Currently, yo
 `modelType`: Model architecture, such as "homegrown" and "DF".
 
 ## Usage 
-After you modify the parameters, run `python model_training.py` to train and test your models.
+After you modify the parameters, run `python *.py` to train and test your models. 
+
