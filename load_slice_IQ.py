@@ -115,7 +115,7 @@ def dev_bin_dataset(glob_dat_path, n_slices_per_dev, slice_len, start_idx, chann
             else:
                 all_IQ_data = slices_per_tran
 
-        elif dataType == "spectrum":
+        elif dataType == "spectrogram":
             print("file: {}, samples_num:{}".format(f, samples_per_tran))
             spec_per_tran = read_spec_bin(f, window)[start_idx:]
             spec_len = spec_per_tran.shape[1]
