@@ -9,7 +9,7 @@ We use the same definations of parameters for all those functions. Currently, yo
 
 `dataPath`: Path for Training dataset (Day1 dataset).
 
-`testPath`: Path for Test dataset (Day 2 dataset for cross-day scenario).
+`testPath`: Path for Test dataset (Day 2 dataset for the cross-day scenario).
 
 `location`: Specify the location of collected dataset, such as "before_fft", "after_fft" and "symbols".
 
@@ -21,6 +21,6 @@ We use the same definations of parameters for all those functions. Currently, yo
 
 `start_idx`: Start index to extract slices.
 
-`stride`: stride when cutting slices, such as 144 or 288.
+`stride`: Stride when cutting slices, such as 144 or 288.
 
 `modelType`: Model architecture, such as "homegrown" and "DF".
