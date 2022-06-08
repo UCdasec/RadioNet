@@ -2,15 +2,15 @@
 
 `ADA` contains code for Adversary Domain Adptation.
 
- ``af_classifier.py`` is the main function for ADA.
+   ``af_classifier.py`` is the main function for ADA.
 
 `triplet_network` contains code for Triplet Network.
 
-``triplet_training.py`` is the main function for triplet network.
+  ``triplet_training.py`` is the main function for triplet network.
 
 `model_training.py` for the same-day or cross-day scenario evaluation.
 
-`finetune.py` for fine-tuning pre-trained models. 
+  `finetune.py` for fine-tuning pre-trained models. 
 
 ## Defination of parameters
 
