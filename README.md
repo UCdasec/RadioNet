@@ -1,5 +1,13 @@
 # RadioNet
 
+** The dataset and code are for research purpose only**
+
+## Reference
+When reporting results that use the dataset or code in this repository, please cite the paper below:
+
+Haipeng Li, Kaustubh Gupta, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "RadioNet: Robust Deep-Learning Based Radio Fingerprinting" by IEEE Conference on Communications and Network Security (CNS 2022), Austin, TX, USA, 3-5 October 2022
+
+
 **ADA** contains code for Adversary Domain Adptation. `af_classifier.py` is the main function for ADA.
 
 **triplet_network** contains code for Triplet Network. `triplet_training.py` is the main function for triplet network.
