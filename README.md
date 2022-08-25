@@ -7,6 +7,12 @@ When reporting results that use the dataset or code in this repository, please c
 
 Haipeng Li, Kaustubh Gupta, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "RadioNet: Robust Deep-Learning Based Radio Fingerprinting" by IEEE Conference on Communications and Network Security (CNS 2022), Austin, TX, USA, 3-5 October 2022
 
+## Dataset 
+
+https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EszcvBI-h49JiBACymmxkigBwa8la4nppRxjMwtB2U5Wsw?e=NVNp12 
+
+Note: the above links need to be updated every 6 months due to certain settings of OneDrive. If you find the links are expired and you cannot access the data, please feel free to email us (boyang.wang@uc.edu). We will be update the links as soon as we can. Thanks!
+
 ## 
 
 **ADA** contains code for Adversary Domain Adptation. `af_classifier.py` is the main function for ADA.
