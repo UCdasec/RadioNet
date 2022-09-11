@@ -17,11 +17,15 @@ Note: the above link need to be updated every 6 months due to certain settings o
 
 ### Step 1
 
-**Model Training** `model_training.py` for the same-day scenario and cross-day scenario evaluation. 
+**Model Training** 
+
+`model_training.py` for the same-day scenario and cross-day scenario evaluation. 
 
 run `python model_training.py` to get the performance of radio classification in the same-day and cross-day scenario without the help of transfer learning
 
 ### Step 2
+
+**Transfer learning**
 
 After you train your same-day model using `model_training.py`, you can select one of the three followsing transfer learning methods to improve the performance in a cross-day scenario.
 
