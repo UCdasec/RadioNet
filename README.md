@@ -15,17 +15,19 @@ Note: the above link need to be updated every 6 months due to certain settings o
 
 ## 
 
+**Model Training** `model_training.py` for the same-day and cross-day scenario evaluation.
+
+After you train your same-day model using `model_training.py`, you can select one of the three followsing transfer learning methods to improve the performance in a cross-day scenario.
+
 **ADA** contains code for Adversary Domain Adptation. `af_classifier.py` is the main function for ADA.
 
-**triplet_network** contains code for Triplet Network. `triplet_training.py` is the main function for triplet network.
+**Triplet_network** contains code for Triplet Network. `triplet_training.py` is the main function for triplet network.
 
-`model_training.py` for the same-day or cross-day scenario evaluation.
-
-`finetune.py` for fine-tuning pre-trained models. 
+**Fine-tuning** `finetune.py` for fine-tuning pre-trained models. 
 
 ## Defination of parameters
 
-We use the same definations of parameters for all those functions. Currently, you can modify those parameters at the entrance of each function (such as "testOpts()" or "main()"):
+We use the same definations of parameters for all model training and transfer training functions. Currently, you can modify those parameters at the entrance of each function (such as "testOpts()" or "main()"):
 
 `dataPath`: Path for Training dataset (Day1 dataset).
 
@@ -46,5 +48,5 @@ We use the same definations of parameters for all those functions. Currently, yo
 `modelType`: Model architecture, such as "homegrown" and "DF".
 
 ## Usage 
-After you modify the parameters, run `python *.py` to train and test your models. 
+After you modify the parameters, run `python *.py` (replace `*` with `model_training`, `triplet_training` or `finetune`) to train and test your models. 
 
