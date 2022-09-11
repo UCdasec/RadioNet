@@ -13,9 +13,9 @@ https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EszcvBI-h4
 
 Note: the above link need to be updated every 6 months due to certain settings of OneDrive. If you find the links are expired and you cannot access the data, please feel free to email us (boyang.wang@uc.edu). We will be update the links as soon as we can. Thanks!
 
-## 
+## Same-Day and Cross-Day Evaluation
 
-**Model Training** `model_training.py` for the same-day and cross-day scenario evaluation.
+**Model Training** `model_training.py` for the same-day scenario and cross-day scenario evaluation.
 
 After you train your same-day model using `model_training.py`, you can select one of the three followsing transfer learning methods to improve the performance in a cross-day scenario.
 
