@@ -7,6 +7,12 @@ When reporting results that use the dataset or code in this repository, please c
 
 Haipeng Li, Kaustubh Gupta, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "RadioNet: Robust Deep-Learning Based Radio Fingerprinting" by IEEE Conference on Communications and Network Security (CNS 2022), Austin, TX, USA, 3-5 October 2022
 
+## Contacts
+Haipeng Li, Ph.D. candidate, li2hp@mail.uc.edu, University of Cincinnati 
+Boyang Wang, Assistant Professor, boyang.wang@uc.edu, University of Cincinnati
+Nirnimesh Ghose, Assistant Professor, nghose@unl.edu, University of Nebraska Lincoln  
+
+
 ## Dataset (last modified: March 2023)
 
 https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EszcvBI-h49JiBACymmxkigBwa8la4nppRxjMwtB2U5Wsw?e=g4AFpI
