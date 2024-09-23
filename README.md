@@ -15,11 +15,11 @@ Boyang Wang, Assistant Professor, boyang.wang@uc.edu, University of Cincinnati
 Nirnimesh Ghose, Assistant Professor, nghose@unl.edu, University of Nebraska Lincoln  
 
 
-## Dataset (last modified: Feb 2024)
+## Dataset (last modified: Sept. 2024)
 
-https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EszcvBI-h49JiBACymmxkigBwa8la4nppRxjMwtB2U5Wsw?e=Ovy8Um
+https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EszcvBI-h49JiBACymmxkigBwa8la4nppRxjMwtB2U5Wsw?e=8yFbOU
 
-Note: the above link need to be updated every 6 months due to certain settings of OneDrive. If you find the links are expired and you cannot access the data, please feel free to email us (boyang.wang@uc.edu). We will be update the links as soon as we can. Thanks!
+Note: the above link need to be updated every 6 months due to certain settings of OneDrive. If you find the links are expired and you cannot access the data, please feel free to email us (Dr. Boyang Wang, boyang.wang@uc.edu). We will be update the links as soon as we can. Thanks!
 
 ## Same-Day and Cross-Day Evaluation
 
