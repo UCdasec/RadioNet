@@ -10,7 +10,7 @@ Haipeng Li, Kaustubh Gupta, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "Radio
 ## Contacts
 Haipeng Li, Ph.D. candidate, li2hp@mail.uc.edu, University of Cincinnati 
 
-Boyang Wang, Assistant Professor, boyang.wang@uc.edu, University of Cincinnati
+Boyang Wang, Associate Professor, boyang.wang@uc.edu, University of Cincinnati
 
 Nirnimesh Ghose, Assistant Professor, nghose@unl.edu, University of Nebraska Lincoln  
 
